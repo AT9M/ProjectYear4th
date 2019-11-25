@@ -1,6 +1,6 @@
-string DetectionValueUltra[8] = {'N','N','N','N','N','N','N','N'};
-string Vibration_motor[8] = {'P','P','P','P','P','P','P','P'};
-string DetectionValueIR[2] = {'N','N'};
+String DetectionValueUltra[8] = {'N','N','N','N','N','N','N','N'};
+String Vibration_motor[8] = {'P','P','P','P','P','P','P','P'};
+String DetectionValueIR[2] = {'N','N'};
 void setup() {
   // put your setup code here, to run once:
 //different snsor input and output
