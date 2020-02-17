@@ -1,0 +1,1 @@
+I need to downgrade python 3.7 to python 3.6.8 because pyaudio wich is use for the Speech reco  doesn't wok on 3.7
