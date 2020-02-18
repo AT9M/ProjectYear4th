@@ -20,7 +20,7 @@ account_sid ="ACdbaf928da25d1412efb" # Put your Twilio account SID here
 auth_token ="cbfca4adce0" # Put your auth token here
 
 
-Number_list = ["+33617966728","+33609062820"]
+Number_list = ["+","+tel"]
 
 list_detect = ['N','N','N','N','N','N','N','N']
 count = 0
