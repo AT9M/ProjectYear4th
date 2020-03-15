@@ -15,9 +15,9 @@ min = 1
 max = 6
 i=1
 
-account_sid ="ACdbaf928da25d1412efb" # Put your Twilio account SID here
+account_sid ="XXX" # Put your Twilio account SID here
 
-auth_token ="cbfca4adce0" # Put your auth token here
+auth_token ="XXX" # Put your auth token here
 
 
 Number_list = ["+","+tel"]
