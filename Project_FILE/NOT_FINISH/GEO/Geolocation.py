@@ -6,7 +6,7 @@ account_sid ="AC6a6ffb" # Put your Twilio account SID here
 auth_token ="2538e0" # Put your auth token here
 
 
-Number_list = ["+33617966728","+33609062820"]
+Number_list = ["+","+"]
 def display_position():
     """  Function To Print GeoIP Latitude & Longitude """
     ip_request = requests.get('https://get.geojs.io/v1/ip.json')
