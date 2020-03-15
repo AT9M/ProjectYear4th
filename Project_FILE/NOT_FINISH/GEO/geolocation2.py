@@ -1,12 +1,12 @@
 import requests
 from twilio.rest import Client
 
-account_sid ="AC6a6f62dbaf928dab9d849e25d1412efb" # Put your Twilio account SID here
+account_sid ="AC6a6f62dbaf92efb" # Put your Twilio account SID here
 
-auth_token ="25380b677c458cbfca4abc0eea9bdce0" # Put your auth token here
+auth_token ="25380b67bdce0" # Put your auth token here
 
 
-Number_list = ["+33617966728","+33609062820"]
+Number_list = ["+33628","+3360"]
 def display_position():
     """  Function To Print GeoIP Latitude & Longitude """
     ip_request = requests.get('https://get.geojs.io/v1/ip.json')
