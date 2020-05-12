@@ -88,8 +88,9 @@ void loop() {
 
 measureDist(trigPin1,echoPin1,Vibra1);
 
+measureDist(trigPin2,echoPin2,Vibra2);
 
-measureDist(trigPin3,echoPin3,Vibra2);
+measureDist(trigPin3,echoPin3,Vibra3);
 
 irDist();
 
