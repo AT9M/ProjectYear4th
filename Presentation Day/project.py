@@ -16,12 +16,12 @@ import json
 
 engine = pyttsx3.init()
 voices = engine.setProperty('voice','HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0')
-account_sid ="AC2b2a904d905db3396163680e0288fc50" 
+account_sid ="XXXXXXXXXXXX" 
 
-auth_token ="1b67d9220a46f5c8f16492c85017a5bd"
+auth_token ="XXXXXXXXXXXXXXX"
 
 
-Number_list = ["+33617966728"]
+Number_list = ["+XXXXXXXXXXXXXX"]
 
 
 engine.say("I'm listening")
